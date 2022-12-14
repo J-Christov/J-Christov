@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @J-Christov
-- 👀 I’m interested in learn more about programming
+- 👀 I’m interested in learn more about about areas of technology
 - 🌱 I’m currently learning about JavaScript
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me @jheniferac 
