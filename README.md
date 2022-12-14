@@ -1,4 +1,4 @@
-- Oi! Me chamo Jhenifer, seja bem vindo ao meu perfil
+- Oiiii! Me chamo Jhenifer, seja bem vindo ao meu perfil
 - Estou em um processo de transição de carreira para a área de tecnologia
 - Atualmente estou aprendendo mais sobre HTML | CSS | JavaScript 
 - Estou interessada em aprender mais sobre esse mundo de tecnologia e programação 
